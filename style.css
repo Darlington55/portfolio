@@ -142,8 +142,9 @@ hr {
   .skill-row {
     width: 95%;
   }
+  @media screen and (max-width: 500px) {
   .mountain {
   width: 30%
 }
-}
+  }
 
